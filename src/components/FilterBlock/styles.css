@@ -1,0 +1,17 @@
+.filter-block {
+  display: flex;
+  padding: 10px;
+  width: 100%;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.filter {
+  display: flex;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(113, 113, 113, 0.3);
+}
